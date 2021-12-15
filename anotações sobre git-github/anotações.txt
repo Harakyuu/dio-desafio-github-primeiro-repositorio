@@ -1,0 +1,7 @@
+git init: inicia um repositório em uma pasta/diretório
+git add: identifica um arquivo e alterações feitas
+git commit: salva um arquivo e alterações feitas
+git status: verifica o status do repositório
+git clone: copia o repositório do espaço remoto (GitHub) para o espaço local (máquina)
+git push origin master: empurra para o espaço remoto alterações feitas no espaço local
+git pull origin master: pega o repositório do espaço remoto com todas as alterações feitas por usuários diferentes para o espaço local
